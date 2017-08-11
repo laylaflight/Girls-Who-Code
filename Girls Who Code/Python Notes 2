@@ -1,0 +1,63 @@
+from turtle import *
+import math
+
+# Name your Turtle.
+t = Turtle()
+
+# Set Up your screen and starting position.
+setup(500,300)
+x_pos = -250
+y_pos = -150
+t.setposition(x_pos, y_pos)
+
+### Write your code below:
+
+# for loop example
+ pie = 12
+
+ for _ in range(10):
+     pie += 1
+     print(pie)
+
+# while loop example
+pie = 12
+maxPies = 22
+while pie != maxPies:
+      print(pie)
+      pie = pie + 1
+
+# all functions from turtle
+and imports them
+
+from turtle import*
+forward(90)
+
+
+side = 4 # standardized to
+draw square
+degrees = 360/sides #computes angle of all sides using sides
+#size of turtle's strides
+stepSize = 50
+
+i = 0 :
+while i > 1
+pendown() # puts pen down
+forward(stepSize) #moves turtle forward
+right(degrees) # forces turtle to turn
+penup()        # puts penup
+#while loop
+
+#function
+salary = 90000
+def taxDeduction(salary):
+    tax = salary * 0.08
+    print(tax)
+taxDeduction(salary)
+
+
+
+
+
+
+# Close window on click.
+exitonclick()

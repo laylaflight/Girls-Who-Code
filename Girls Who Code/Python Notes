@@ -1,0 +1,129 @@
+                              #for loop example
+ pie = 12
+
+ for _ in range(10):
+     pie += 1
+     print(pie)
+
+                            #while loop example
+pie = 12
+maxPies = 22
+while pie != maxPies:
+      print(pie)
+      pie = pie + 1
+
+                                  #note
+ all functions from turtle
+and imports them                            from turtle import
+
+
+
+side = 4                        #standardized to draw square
+degrees = 360/sides              #computes angle of all sides using sides
+stepSize = 50                     #size of turtle's strides
+
+
+i = 0 :
+while i > 1
+pen down()                      #puts pen down
+forward(stepSize)             #moves turtle forward
+right(degrees)                #forces turtle to turn
+pen up()                           #puts pen up
+#while loop
+
+                    #function
+salary = 90000
+def taxDeduction(salary):
+    tax = salary * 0.08
+    print(tax)
+taxDeduction(salary)
+
+
+
+subject = input ("your input")          # for input
+
+age = input ("What is your age")
+print(age, type(age))                                       # to include integers
+
+
+character (return key)
+
+("/n"* number)                                              character (return key)
+                                                         to repeat the same
+print(what are you buyi)
+
+
+food_selection = input(Choice:")
+
+food_selection = int(food_selection)
+
+food_slection = int( input())
+if food_selection is 3:
+    print("You've chosen doritos")
+else: print("what is that?")
+
+
+sleep (3)
+system "clear"                  * to clear for more information
+
+
+
+system("clear")                   # Windows: system("cls")
+
+
+for c in ("")                    #to make letters come one at a time
+   if c!= "/n";
+   print(c, end = "", flush = True )
+   sleep(#number insert)
+
+
+
+groceries = ['pears','eggs','nuggets','ribs','mac& cheese']
+
+prices = [1,0.5,0.25,10,42]
+
+len(groceries)                 #length of something
+print( len(groceries) )
+print( len(prices)   )
+
+if len(groceries) == len(prices):
+  print("cool")
+
+[0,1,2,3]                       #prints out this in for loop
+for i in range(4):
+  print(i)
+print()
+
+for price in prices:
+  print(price)
+
+for grocery in groceries:                      #generates them one at a time
+    print(grocery)
+
+print( groceries[2] )                              # [] = index     # always starts from 0
+
+word_list = []
+
+#Generates a random integer.
+x = randint(0, len(word_list)-1)            # word list len is the number of numbers
+
+wordListLen = len(word_list)
+print(wordListLen)
+
+x = randint(0, wordListlen-1)                         #index
+print(word_list[x])                                   #picks a random number stored in x
+
+find the sum of numbers using                         #sum
+
+darkBlue = (0, 51, 76)                                #intensity
+
+
+intensityOfDarkBlue = sum(darkblue)
+
+print(darkBlue[0] + darkBlue[1] + darkBlue[2])
+
+
+                                                    #iterate through list for loop
+recolored                                               #use append
+
+before new image s
